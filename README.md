@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao meu perfil
 - Sou programador em Front-end
+- Trabalho na área da programação desde 2020 (como rob)
+- Estou aberto a propostas de emprego
 
 ## Meu Status
  <div>
