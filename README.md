@@ -2,6 +2,7 @@
 - Sou programador em Front-end
 - Trabalho na área da programação desde 2020 (como rob)
 - Estou aberto a propostas de emprego
+- Vou fazer um projeto por semana e postar aqui no perfil!
 
 ## Meu Status
  <div>
