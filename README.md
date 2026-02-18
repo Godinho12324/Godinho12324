@@ -4,10 +4,11 @@
 - Estou aberto a propostas de emprego
 
 ## Meu Status
- <div>
-   <a href="https://github.com/Godinho12324">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Godinho12324&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godinho12324&theme=dark&layout=compact&langs_count=6"/>
+<div>
+  <a href="https://github.com/Godinho12324">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Godinho12324&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godinho12324&theme=dark&layout=compact&langs_count=6"/>
+  </a>
 </div>
     
 <div style="display: inline_block"><br>
