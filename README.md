@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <h3>Segue aí com meus status</h3>
+  <h3>Segue aí com meus status:</h3>
   <br>
 
   | [![GitHub Streak](https://streak-stats.demolab.com?user=Godinho12324&theme=midnight-purple&hide_border=true&border_radius=5)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Godinho12324&theme=midnight_purple) |
@@ -31,10 +31,9 @@
 ---
 
 <div align="center">
-  <h3>Agora com as tecnologias</h3>
+  <h3>Agora com as tecnologias:</h3>
   <br>
-
-  
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 heith=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=40 heith=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 heith=40 />
