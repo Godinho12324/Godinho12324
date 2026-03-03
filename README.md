@@ -1,14 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A42C2,100:8F78F1&section=header"/>
 
-# Seja muito bem vindo ao meu perfil! 🧠💻
-
 <div align="center">
   
   <b>`Eaí, tudo em cima?`</b>
-  <samp>
-      <br>
-      Seja muito bem vindo ao meu perfil!
-  </samp>
+  <br>
+  Seja muito bem vindo ao meu perfil!
 </div>
 
 <p align="center">
