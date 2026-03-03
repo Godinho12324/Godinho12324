@@ -5,7 +5,7 @@
 <p align="center">
 Se o Código der problema... 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6A42C2&lines=Dale+ChatGpt!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=6A42C2&lines=Dale+ChatGpt!" />
 </a>
 </p>
 
