@@ -2,10 +2,10 @@
 
 <h1 align="center">Seja bem vindo ao meu Github!<h1/>
 
-<div align="center">
+<p align="center">
   
   <b>`Eaí, firmeza?`<b/>
-</div>
+</p>
 
 
 <p align="center">
