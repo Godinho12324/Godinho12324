@@ -1,8 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A42C2,100:8F78F1&section=header"/>
 
-
-  <b align="center">`Eaí, tudo em cima?`</b>
-  <h1 align="center">Seja muito bem vindo ao meu perfil!<h1/>
+<b align="center">`Eaí, tudo em cima?`</b>
+<h1 align="center">Seja muito bem vindo ao meu perfil!<h1/>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
