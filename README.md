@@ -2,12 +2,10 @@
 
 <h1 align="center">Seja bem vindo ao meu Github!</h1>
 
-<div>
+<div align="center">
   
   <b>`Eaí, firmeza?`<b/>
 </div>
-
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -15,4 +13,15 @@
   </a>
 </p>
 
+<div align="center">
+
+  | [![GitHub Streak](https://streak-stats.demolab.com?user=Godinho12324&theme=midnight-purple&hide_border=true&border_radius=5)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Godinho12324&theme=midnight_purple) |
+| :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Godinho12324&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Godinho12324&theme=midnight_purple) |
+| :-: | :-: |
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A42C2,100:8F78F1&section=footer"/>
+
