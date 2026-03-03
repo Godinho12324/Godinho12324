@@ -16,8 +16,9 @@
 
 ---
 
-<h3 align="center">Segue aí com meus status</h3>
 <div align="center">
+  <h3>Segue aí com meus status</h3>
+  <br>
 
   | [![GitHub Streak](https://streak-stats.demolab.com?user=Godinho12324&theme=midnight-purple&hide_border=true&border_radius=5)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Godinho12324&theme=midnight_purple) |
 | :-: | :-: |
@@ -27,17 +28,26 @@
 
 </div>
 
+---
+
+<div align="center">
+  <h3>Agora com as tecnologias</h3>
+  <br>
+
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 heith=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=40 heith=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 heith=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=40 heith=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=40 heith=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width=40 heith=40 />
+</div>
+
+---
+
 <div align="center">
 
----
-
-<h3 align="center">Agora com as tecnologias</h3>
-
-
-
----
   <b>`Eaí, valeu a pena dar uma olhada?`<b/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A42C2,100:8F78F1&section=footer"/>
-
