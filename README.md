@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A42C2,100:8F78F1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A42C2,100:8F78F1&section=header"/>
 
-#Seja bem vindo ao meu Github!
+<h1>Seja bem vindo ao meu Github!</h1>
   
   <b>`Eaí, firmeza?`<b/>
 
@@ -11,4 +11,4 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A42C2,100:8F78F1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A42C2,100:8F78F1&section=footer"/>
