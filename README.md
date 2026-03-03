@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A42C2,100:8F78F1&section=header"/>
 
 <div align="center">
-  <h1>Seja bem vindo ao meu Perfil!</h1>
+  <h1>🔥 Seja bem vindo ao meu Perfil! 🔥</h1>
 </div>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <h3>Segue aí com meus status:</h3>
+  <h3>🟣 Segue aí com meus status: 🟣</h3>
   <br>
 
   | [![GitHub Streak](https://streak-stats.demolab.com?user=Godinho12324&theme=midnight-purple&hide_border=true&border_radius=5)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Godinho12324&theme=midnight_purple) |
@@ -31,7 +31,7 @@
 ---
 
 <div align="center">
-  <h3>Agora com as tecnologias:</h3>
+  <h3>🟣 Agora com as tecnologias: 🟣</h3>
   <br>
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 heith=40 />
