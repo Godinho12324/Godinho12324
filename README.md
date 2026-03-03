@@ -3,7 +3,7 @@
 # Seja muito bem vindo ao meu perfil! 🧠💻
 
 <p align="center">
-<h1>Se o Código der problema... <h1/>
+<h3>Se o Código der problema... <h3/>
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6A42C2&lines=Dale+ChatGpt!" />
 </a>
