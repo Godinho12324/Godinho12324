@@ -2,6 +2,8 @@
 
 # Seja muito bem vindo ao meu perfil! 🧠💻
 
+<div align="center">
+  
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
