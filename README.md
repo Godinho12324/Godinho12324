@@ -3,7 +3,7 @@
 <div align="center">
   
   <b>`Eaí, tudo em cima?`</b>
-  <h2>Seja muito bem vindo ao meu perfil!<h2/>
+  <h1>Seja muito bem vindo ao meu perfil!<h1/>
 </div>
 
 <p align="center">
