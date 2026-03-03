@@ -4,8 +4,8 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"> 
-<h3>Se o Código der problema... Então<h3/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=6A42C2&lines=Dale+ChatGpt!"/>
+<h3>Se o Código der problema...<h3/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=6A42C2&lines=Então+Dale+ChatGpt!"/>
 </a>
 
 </p>
