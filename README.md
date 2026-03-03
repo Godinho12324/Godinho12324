@@ -3,7 +3,6 @@
 <div align="center">
   
   <b>`Eaí, tudo em cima?`</b>
-  <br>
   <h3>Seja muito bem vindo ao meu perfil!<h3/>
 </div>
 
