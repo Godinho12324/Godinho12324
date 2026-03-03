@@ -7,7 +7,7 @@
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Kamilly Medino
+      Seja muito bem vindo ao meu perfil!
   </samp>
 </div>
 
