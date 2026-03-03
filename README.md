@@ -6,10 +6,10 @@
   <h1>Seja muito bem vindo ao meu perfil!<h1/>
 </div>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A42C2&center=true&vCenter=true&width=435&lines=Se+o+C%C3%B3digo+der+Problema+.+.+.;Ent%C3%A3o+Dale+ChatGpt!" alt="Typing SVG"/>
-</a>
+</a> -->
 
 </p>
 
