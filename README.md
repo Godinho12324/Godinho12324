@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  `Eaí, firmeza?'
+  <b>`Eaí, firmeza?`<b/>
 </div>
 <h1 align="center">Seja muito bem vindo ao meu perfil!<h1/>
 
