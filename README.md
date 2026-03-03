@@ -28,7 +28,12 @@
 </div>
 
 <div align="center">
-  
+
+---
+
+<h3 align="center">Agora com as tecnologias</h3>
+
+---
   <b>`Eaí, valeu a pena dar uma olhada?`<b/>
 </div>
 
