@@ -4,7 +4,7 @@
   
   <b>`Eaí, firmeza?`<b/>
 </div>
-<h1 align="center">🌔 Seja muito bem vindo ao meu perfil! 🌖<h1/>
+<h1 align="center">Seja muito bem vindo ao meu perfil! 🧠<h1/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
