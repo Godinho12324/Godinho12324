@@ -2,10 +2,8 @@
 
 <div align="center">
   
-<b>`Eaí, tudo em cima?`</b>
+<b>`Eaí, numa nice?`</b>
 <h1 align="center">Seja muito bem vindo ao meu perfil!<h1/>
-  
-</div>
   
 <p align="center">
 <a href="https://git.io/typing-svg">
