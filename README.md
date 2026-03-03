@@ -6,6 +6,7 @@
   
   <b>`プ ロ グ ラ マ`</b>
   <samp>
+      <b>
       Hi there! I'm <b>Kamilly Medino</b>
   </samp>
 </div>
