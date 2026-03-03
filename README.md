@@ -1,8 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A42C2,100:8F78F1&section=header"/>
 
-<h1>Seja bem vindo ao meu Github!</h1>
+<h1 align="center">Seja bem vindo ao meu Github!</h1>
+
+<div>
   
   <b>`Eaí, firmeza?`<b/>
+</div>
+
 
 
 <p align="center">
