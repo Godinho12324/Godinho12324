@@ -5,7 +5,17 @@
 </div>
 
 <p align="center">
-  Bem, vou falar um pouco sobre mim. Meu nome é Pedro de Carvalho Godinho, eu tenho 17 anos, e no momento estou cursando o 3° ano do ensino médio. Na verdade, é até meio estranho eu falar qual é a minha situação de ensino numa rede social para programadores, então vou fazer assim: Vou falar um pouco de quem eu sou na programação. Eu tô no meu 6° ano programando, no qual já passei por cursos da Origamid, Alura e Londriteck. É, acho que é só isso, de resto o Readme se explica sozinho. A quase me esqueci, se eu tivesse uma frase de efeito, com certeza seria:
+Bem… vou falar um pouco sobre mim.
+
+Meu nome é Pedro de Carvalho Godinho, tenho 17 anos e tô no 3º ano do ensino médio. Inclusive, é até meio estranho eu estar falando da minha vida escolar aqui… porque né, isso aqui é uma rede de programadores. Mas enfim, deixa isso pra lá.
+
+Falando do que realmente importa: eu já tô há 6 anos programando. Comecei cedo e fui me aprofundando com cursos da Origamid, Alura e Londriteck. No meio disso tudo, muito erro, muito bug, muita tentativa — mas também muita evolução.
+
+Eu curto essa parada de pegar uma ideia meio abstrata e transformar em algo funcionando na tela. Código pra mim não é só código, é quase que pintar uma obra de arte, ou até criar uma forma de vida diferenciada.
+
+O resto o README explica melhor que eu.
+
+Ah, e antes que eu esqueça, minha frase de efeito é bem simples:
 </p>
 
 <p align="center">
