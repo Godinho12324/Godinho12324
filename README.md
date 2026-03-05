@@ -5,11 +5,11 @@
 </div>
 
 <p align="center">
-Bem… vou falar um pouco sobre mim.
+  Bem… vou falar um pouco sobre mim.
 </p>
 
 <p align="center">
-  Meu nome é Pedro de Carvalho Godinho, tenho 17 anos e tô no 3º ano do ensino médio. Inclusive, é até meio estranho eu estar falando da minha vida escolar aqui… porque né, isso aqui é uma rede de programadores. Mas enfim, deixa isso pra lá. Falando do que realmente importa: eu já tô há 6 anos programando. Comecei cedo e fui me aprofundando com cursos da Origamid, Alura e Londriteck. No meio disso tudo, muito erro, muito bug, muita tentativa — mas também muita evolução. Eu curto essa parada de pegar uma ideia meio abstrata e transformar em algo funcionando na tela. Código pra mim não é só código, é quase que pintar uma obra de arte, ou até criar uma forma de vida diferenciada. O resto o README explica melhor que eu, então vai lá dar uma olhada que compensa. Ah, e antes que eu esqueça, minha frase de efeito <strong>é bem simples:</strong>
+  Meu nome é Pedro de Carvalho Godinho, tenho 17 anos e tô no 3º ano do ensino médio. Inclusive, é até meio estranho eu estar falando da minha vida escolar aqui… porque né, isso aqui é uma rede de programadores. Mas enfim, deixa isso pra lá. Falando do que realmente importa: eu já tô há 6 anos programando. Comecei cedo e fui me aprofundando com cursos da Origamid, Alura e Londriteck. No meio disso tudo, muito erro, muito bug, muita tentativa — mas também muita evolução. Eu curto essa parada de pegar uma ideia meio abstrata e transformar em algo funcionando na tela. Código pra mim não é só código, é quase que pintar uma obra de arte, ou até criar uma forma de vida diferenciada. O resto o README explica melhor que eu, então vai lá dar uma olhada que compensa. Ah, quase me esqueci, meu professor diz que a frase de efeito define que você é. Então se eu tivesse uma frase de efeito, com certeza seria:
 </p>
 
 <p align="center">
